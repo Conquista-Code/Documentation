@@ -1,10 +1,8 @@
 <br>
 
-# Welcome to our Presentations repository
+# Welcome to our Documentation repository
 
-This repository contains links and resources to our slide show presentation. Once our video presentation is available, it will be added to this repository as well. This project is the culmination to our OPS-301 course utilizing problem framing, troubleshooting methodology, and network engineering skills.
-This repo contains the Conquista Code slideshow presentation for the CleanPower company
-
+This repository contains links and resources used to create the finished product
 <br>
 
 ## Conquista Code Team 
@@ -16,6 +14,8 @@ This repo contains the Conquista Code slideshow presentation for the CleanPower 
 | Carlos Rojas | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlos-rojass/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/carlosjorr) |
 | Eddie Ayala |  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eddie-ayala3/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Edmandoo1) |
 | Colin Wilde |  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/colin-wilde-748718209/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/wildedcolin) |
+
  
 # Scripts-Documentation
 Repository for all scripts generates and resources used. 
+- [Create CSV File in Powershell](https://codeigo.com/powershell/create-csv-file/)
