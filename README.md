@@ -18,4 +18,4 @@ This repository contains links and resources used to create the finished product
  
 # Scripts-Documentation
 Repository for all scripts generates and resources used. 
-- [Create CSV File in Powershell](https://codeigo.com/powershell/create-csv-file/)
+- [Create CSV File in Powershell](https://vscode.dev/github/EdMandoo1/Code-Challenges/blob/main/Powershell/CleanPower.ps1) 
