@@ -18,4 +18,5 @@ This repository contains links and resources used to create the finished product
  
 # Scripts-Documentation
 Repository for all scripts generates and resources used. 
-- [Create CSV File in Powershell](https://vscode.dev/github/EdMandoo1/Code-Challenges/blob/main/Powershell/CleanPower.ps1) 
+- [Create CSV File in Powershell](https://vscode.dev/github/EdMandoo1/Code-Challenges/blob/main/Powershell/CleanPower.ps1)
+- [Import CSV Into Active Directory] * in process *
