@@ -28,3 +28,6 @@ This repository contains links and resources used to create the finished product
 ## Transit Gateway Creation Walk-Thru 
 #### Step by step PDF:
 - [Configuring AWS for the Expanding Globex](https://github.com/Conquista-Code/Documentation/blob/main/Setting%20up%20AWS%20connections.pdf)
+
+## System Automation
+(Pending)
