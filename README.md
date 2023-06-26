@@ -18,7 +18,7 @@ This repository contains links and resources used to create the finished product
 
 <br>
  
-## Scripts-Documentation
+## Task Automation - Powershell
 #### Repository for all scripts generates and resources: 
 - [Create CSV File in Powershell](https://vscode.dev/github/EdMandoo1/Code-Challenges/blob/main/Powershell/CleanPower.ps1)
 - [Import CSV Into Active Directory] * in process *
@@ -29,5 +29,3 @@ This repository contains links and resources used to create the finished product
 #### Step by step PDF:
 - [Configuring AWS for the Expanding Globex](https://github.com/Conquista-Code/Documentation/blob/main/Setting%20up%20AWS%20connections.pdf)
 
-## System Automation
-(Pending)
